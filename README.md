@@ -4,21 +4,21 @@
 **A series of react components built for the note taking app (Obsidian)[https://obsidian.md/]**
 
 - ## Colorful Clock
-![[./ColorfulClock/colorfulclock.png]]
+![Clock](https://github.com/cbailey17/react-components/blob/master/ColorfulClock/colorfulclock.png?raw=true)
 
 - ## Digital Clock
-![[./DigitalClock/digitalclock.png]]
+![Digital](https://github.com/cbailey17/react-components/blob/master/DigitalClock/digitalclock.png?raw=true)
 
 - ## Globe Component
 **A video demo can be found in the folder** <br>
-![[./GlobeComponent/globeitinerary.png]]
+![Globe](https://github.com/cbailey17/react-components/blob/master/GlobeComponent/globeitinerary.png?raw=true)
 
 - ## Music and Birthday Countdown
-![[./MusicAndBirthdayCountdown/musicandbirthdaycountdown.png]]
+![music&bday](https://github.com/cbailey17/react-components/blob/master/MusicAndBirthdayCountdown/musicandbirthdaycountdown.png?raw=true)
 
 - ## Progress Bars
-![[./ProgressBars/progressbars.png]]
-![[./ProgressBars/progressbar.png]]
+![progressbars](https://github.com/cbailey17/react-components/blob/master/ProgressBars/progressbars.png?raw=true)
+![progressbar](https://github.com/cbailey17/react-components/blob/master/ProgressBars/progressbar.png?raw=true)
 
 - ## Stop Watch
-![[./StopWatch/stopwatch.png]]
+![stopwatch](https://github.com/cbailey17/react-components/blob/master/StopWatch/stopwatch.png?raw=true)
